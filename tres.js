@@ -1,0 +1,1 @@
+console.log('La práctica consiste en el uso de Git');
